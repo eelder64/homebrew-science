@@ -65,7 +65,7 @@ class Geant4 < Formula
   end
 
   resource "G4ABLA" do
-    url "http://geant4.cern.ch/support/source/G4ABLA.3.0.tar.gz"
+    url "http://geant4.cern.ch/support/source/XG4ABLA.3.0.tar.gz"
     sha256 "99fd4dcc9b4949778f14ed8364088e45fa4ff3148b3ea36f9f3103241d277014"
   end
 
